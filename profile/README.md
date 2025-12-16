@@ -135,9 +135,9 @@ A segurança é nossa prioridade. Se você descobrir alguma vulnerabilidade:
 
 ## 📞 Contato
 
-- **Website**: [Em breve]
 - **Email**: contato@eemovelbrokers.com.br
-- **LinkedIn**: [EEmovel Brokers](#)
+
+Para mais informações sobre nossos produtos e serviços, entre em contato através do email acima.
 
 ## 📄 Licença
 
